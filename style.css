@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: auto;
+    
+}
+body{
+    background-color: azure;
+}
+#LuckyColorText{
+    text-align: center;
+    color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 30px ;
+    background-color: black;
+    padding: 60px;
+
+    /* display: flex;
+    align-items: center;
+    justify-content: space-between;  */
+
+}
+#LuckyColorText img {
+    margin-left: 10px;
+    color: white;
+}
+select{
+        color: aquamarine;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 30px 29px;
+
+        background-color: black;
+        align-items: center;
+        padding: 8px;
+        border: 1px solid white;
+        
+        
+
+}
+select:hover{
+    color: white;
+}
+button{
+    color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: -14px;
+    background-color: black;
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid white;
+
+}
+button:hover{
+    color: azure;
+}
+ 
